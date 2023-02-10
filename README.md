@@ -1,3 +1,3 @@
 # MIT
 
-Java script task for MERN certification
+Java script tasks for MERN certification
